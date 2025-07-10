@@ -1,7 +1,9 @@
-streamlit
-yfinance
+numpy
 pandas
-matplotlib
+scikit-learn
+scipy
 statsmodels
 pmdarima==2.0.4
-numpy
+streamlit
+yfinance
+matplotlib
