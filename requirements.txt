@@ -3,4 +3,4 @@ yfinance
 pandas
 matplotlib
 statsmodels
-pmdarima
+pmdarima==1.8.5
