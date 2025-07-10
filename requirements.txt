@@ -3,7 +3,10 @@ pandas
 scikit-learn
 scipy
 statsmodels
-pmdarima==2.0.4
+Cython
+joblib
+setuptools
+pmdarima @ https://github.com/alkaline-ml/pmdarima/releases/download/v2.0.3/pmdarima-2.0.3-py3-none-any.whl
 streamlit
 yfinance
 matplotlib
